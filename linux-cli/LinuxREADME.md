@@ -8,4 +8,5 @@ Instação do Virtual box (https://www.virtualbox.org/)
 
 
 Com o servidor disponível do Linux:
-    Acessar via SSH: 
+    Acessar via SSH: yurigregorio@<ipdoservidor>
+    Visualizar o seu ip no servidor: ip addr
